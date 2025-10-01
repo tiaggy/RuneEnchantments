@@ -1,0 +1,11 @@
+messages:
+  command:
+    rune:
+      help: "&e/rune give <player> <rune>"
+      give:
+        usage: "&e/rune give <player> <rune>"
+        no_permission: "&cYou have no permission to use this command."
+        invalid_player_name: "&cYou entered invalid player name. Please try again."
+        invalid_rune_name: "&cYou entered invalid rune name. Please try again."
+        success: "&2The rune was successfully given."
+

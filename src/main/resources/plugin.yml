@@ -1,0 +1,14 @@
+name: RuneEnchantments
+version: '1.0'
+main: me.tiaggy.re.RuneEnchantments
+api-version: '1.21'
+commands:
+  rune:
+    description: Main command for RuneEnchantments
+    usage: /rune <subcommand>
+    aliases: [re]
+permissions:
+  re:
+    rune.give:
+      description: Permission to /rune give command
+      default: op

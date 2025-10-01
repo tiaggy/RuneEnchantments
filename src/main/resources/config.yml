@@ -1,0 +1,4 @@
+veinsmelt:
+  spawn_chance: 0.05
+  VeinMine: true
+  AutoSmelt: true
