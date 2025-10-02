@@ -16,7 +16,7 @@ import java.util.List;
 
 import static me.tiaggy.re.rune.RuneManager.getRuneManager;
 
-public abstract class Rune {
+public class Rune {
 
     private final @NonNull TextComponent name;
 
